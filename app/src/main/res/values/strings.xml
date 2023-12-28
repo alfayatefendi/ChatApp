@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="title">Login to app</string>
+    <string name="name">Your full name</string>
+    <string name="login">Log in</string>
+    <string name="signup">Sign up</string>
+    <string name="ready">If you already have an account</string>
+    <string name="email">Your email</string>
+    <string name="password">Your password</string>
+    <string name="forgePassword">Forget password</string>
+    <string name="dontReady">I dont have an account?</string>
+    <string name="readyUp">To get started with the app.</string>
+    <string name="dontReadyUp">I already have an account</string>
+</resources>
